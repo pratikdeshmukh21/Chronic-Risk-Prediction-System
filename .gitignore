@@ -1,0 +1,14 @@
+# Ignore data and model files
+/data/
+/models/
+*.joblib
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.env
+.venv
+.DS_Store
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
